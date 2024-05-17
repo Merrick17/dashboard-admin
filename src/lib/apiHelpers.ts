@@ -1,6 +1,6 @@
 import axios, { AxiosRequestConfig } from "axios";
 
-const BASE_URL = "http://localhost:3500"; // Replace with your actual axios URL
+const BASE_URL = "https://51.210.241.174.nip.io"; // Replace with your actual axios URL
 
 export const get = async (
   url: string,
