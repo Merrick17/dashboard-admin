@@ -19,13 +19,13 @@
     "@radix-ui/react-toast": "^1.1.5",
     "@tanstack/react-query": "^5.35.1",
     "@tanstack/react-query-devtools": "^5.35.1",
-    "ahooks": "^3.7.11",
-    "axios": "^1.6.8",
+    "ahooks": "^3.9.7",
+    "axios": "^1.18.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.378.0",
     "moment": "^2.30.1",
-    "next": "14.2.3",
+    "next": "15.5.18",
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
@@ -40,7 +40,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^4.3.3",
     "typescript": "^5"
   }
 }
